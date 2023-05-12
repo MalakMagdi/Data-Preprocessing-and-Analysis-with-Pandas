@@ -1,4 +1,4 @@
-#  Data-Transformation-and-Cleaning-Using-Pandas
+#  Data-Preprocessing-and-Analysis-with-Pandas
 
 This project involves the analysis of energy data from various sources, including the United Nations, World Bank, and Scimago Journal and Country Rank. The goal is to extract insights and trends related to energy supply, renewable electricity production, GDP, and scientific journal contributions in the field of Energy Engineering and Power Technology.
 
